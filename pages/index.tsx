@@ -41,7 +41,7 @@ export default function Home() {
           <h2>Jesus came to die for our sins so that we can spend eternity with Him instead of burning in Hell with satan.</h2>
           <p>Jesus Christ came in the form of man while being God and perfect at the same time to die on the cross for our sins so that we don&apos;t have to go to Hell.  That&apos;s how much He loves us as it says in <span className={styles.holy}>John 3:16-17</span> below.</p>
           <p className={styles.holy}>For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.  For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. -John 3:16-17 ESV</p>
-          <p>&apos;Son&apos; in the verse refers to Jesus Chris. He died on the cross, resurrected after three days and is alive today and will return again someday.  As long as we are still breathing, we can choose to believe in Jesus.</p>
+          <p>&apos;Son&apos; in the verse refers to Jesus Christ. He died on the cross, resurrected after three days and is alive today and will return again someday.  As long as we are still breathing, we can choose to believe in Jesus.</p>
           <br></br>
           <h2>Suffering in this temporary life is not an excuse to not believe in Jesus.</h2>
           <p>Jesus Christ Himself suffered on the cross, was naked, beaten and crucified.  Any suffering we endure pales in comparison and we deserve nothing but death as it says in <span className={styles.holy}>Romans 6:23</span>.</p>
