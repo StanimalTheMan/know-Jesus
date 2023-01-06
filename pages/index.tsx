@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 
@@ -15,12 +16,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-      <Image
-          src="/cross.jpg"
-          alt="cross"
-          width={100}
-          height={100}
-        ></Image>
+        <Link href="/">
+          <Image
+            src="/cross.jpg"
+            alt="cross"
+            width={100}
+            height={100}
+          ></Image>
+        </Link>
         <h1>Do you believe and trust in <span className={styles.holy}>Jesus</span>?  Do you have assurance that you will go to Heaven when you die?  Take time to read the following truth.</h1>
         <br></br>
         <section>
@@ -30,7 +33,7 @@ export default function Home() {
           <p className={styles.holy}>for all have sinned and fall short of the glory of God, -Romans 3:23 ESV</p>
           <br></br>
           <h2>Hell is real.</h2>
-          <p>A lot of people turn to sex, drugs, and alcohol for comfort as we live in a fallen world filled with inevitable suffering.  However, turning to this without repentence and getting right with God will result in suffering for eternity in Hell as indicated by the following verses.</p>
+          <p>A lot of people turn to sex, drugs, and alcohol for comfort as we live in a fallen world filled with inevitable suffering.  These are temptations from the devil as the enemy comes to steal, kill, and destroy.  Turning to this without repentence and getting right with God will result in suffering for eternity in Hell as indicated by the following verses.</p>
           <p className={styles.holy}>But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death. -Revelation 21:8 ESV</p>
           <p className={styles.holy}>And if your eye causes you to sin, tear it out.  It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, 'where their worm does not die and the fire is not quenched.' -Mark 9:47-48 ESV</p>
           <p>Oh no.  That sounds scary.  Who would want that after living in this imperfect world?  The human eye is so valuable to us that we wouldn't trade it for any amount of money, yet we are told in <span className={styles.holy}>Mark 9:47-48</span> above that our time after death in Heaven is immeasurably more precious.  Luckily, we sinners have hope and don't have to earn our way to Heaven through our own good deeds for that is impossible.</p>
@@ -53,9 +56,24 @@ export default function Home() {
           <p>That is, while we are in our earthly bodies, we will not be able to feel God all the time, but we have hope that upon believing in Jesus and our physical deaths, it will all be worth it.</p>
           <br></br>
           <h2>Prayer</h2>
-          <p>If you've read this far, thank you.  God loves you so much that He doesn't want you to go to Hell.  He is there for you via the Holy Spirit so we should pray at all times.  Start with this or something along the lines of it to confess that Jesus is your Lord and Savior.  When it comes to praying, you just talk to Jesus in your thoughts or out loud as you repent of your sins as we will fall short sometimes and won't be perfect in this world.</p>
-          <p className={styles.pray}>God, I realize that I am nothing without you.  I am a sinner and deserving of death.  But I trust that you are my Lord and Savior, and the price you paid on the cross so that I can be born again and obey you till my very last breath.  Thank you for dying on the cross and cleansing me of my sins.  In Jesus's name, I pray, Amen.</p>
-        </section>
+          <p>If you've read this far, thank you.  God loves you so much, wants to be with You for eternity and He doesn't want you to go to Hell.  He is there for you via the Holy Spirit so we should pray at all times.  Start with this or something along the lines of it to confess that Jesus is your Lord and Savior.  When it comes to praying, you just talk to Jesus in your thoughts or out loud as you repent of your sins as we will fall short sometimes and won't be perfect in this world.</p>
+          <p className={styles.pray}>God, I realize that I am nothing without you.  I am a sinner and deserving of death.  But I trust that you are my Lord and Savior, and know the price you paid on the cross so that I can be born again and obey you till my very last breath.  Thank you for dying on the cross and cleansing me of my sins.  In Jesus's name, I pray, Amen.</p>
+          <div className={styles.more}>
+            <h1>More Topics</h1>
+            <br></br>
+            <ul>
+              <li>
+                <Link href="/sex">Sex</Link>
+              </li>
+              <li>
+                <Link href="/drugsalcohol">Drugs&Alcohol</Link>
+              </li>
+              <li>
+                <Link href="/prayer">Prayer</Link>
+              </li>
+            </ul>
+          </div>
+       </section>
       </main>
     </>
   )
