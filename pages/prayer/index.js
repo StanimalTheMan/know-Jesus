@@ -16,7 +16,7 @@ export default function Prayer() {
             </Link>
             <div className={styles.holy}>
                 <h2>Pray then like this:</h2>
-                <p>"Our Father in heaven,</p>
+                <p>&quot;Our Father in heaven,</p>
                 <p>hallowed be your name.</p>
                 <p>Your kingdom come,</p>
                 <p>your will be done,</p>

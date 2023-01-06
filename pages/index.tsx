@@ -28,36 +28,36 @@ export default function Home() {
         <br></br>
         <section>
           <h2>You are not a good person.</h2>
-          <p>We often think that we are good people if we help others and don't commit crimes and hurt people.  That is not enough when we die.  It might sound crazy
-          but when we hate someone, it's just as bad as killing that person.  Today's society normalizes sexual content and premarital sex, but looking at someone with lustful thoughts outside of marriage is just as bad as committing adultery with that person.  Look no further than <span className={styles.verse}>Romans 3:23</span>.</p>
+          <p>We often think that we are good people if we help others and don&apos;t commit crimes and hurt people.  That is not enough when we die.  It might sound crazy
+          but when we hate someone, it&apos;s just as bad as killing that person.  Today&apos;s society normalizes sexual content and premarital sex, but looking at someone with lustful thoughts outside of marriage is just as bad as committing adultery with that person.  Look no further than <span className={styles.verse}>Romans 3:23</span>.</p>
           <p className={styles.holy}>for all have sinned and fall short of the glory of God, -Romans 3:23 ESV</p>
           <br></br>
           <h2>Hell is real.</h2>
           <p>A lot of people turn to sex, drugs, and alcohol for comfort as we live in a fallen world filled with inevitable suffering.  These are temptations from the devil as the enemy comes to steal, kill, and destroy.  Turning to this without repentence and getting right with God will result in suffering for eternity in Hell as indicated by the following verses.</p>
           <p className={styles.holy}>But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death. -Revelation 21:8 ESV</p>
-          <p className={styles.holy}>And if your eye causes you to sin, tear it out.  It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, 'where their worm does not die and the fire is not quenched.' -Mark 9:47-48 ESV</p>
-          <p>Oh no.  That sounds scary.  Who would want that after living in this imperfect world?  The human eye is so valuable to us that we wouldn't trade it for any amount of money, yet we are told in <span className={styles.holy}>Mark 9:47-48</span> above that our time after death in Heaven is immeasurably more precious.  Luckily, we sinners have hope and don't have to earn our way to Heaven through our own good deeds for that is impossible.</p>
+          <p className={styles.holy}>And if your eye causes you to sin, tear it out.  It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, &apos;where their worm does not die and the fire is not quenched.&apos; -Mark 9:47-48 ESV</p>
+          <p>Oh no.  That sounds scary.  Who would want that after living in this imperfect world?  The human eye is so valuable to us that we wouldn&apos;t trade it for any amount of money, yet we are told in <span className={styles.holy}>Mark 9:47-48</span> above that our time after death in Heaven is immeasurably more precious.  Luckily, we sinners have hope and don&apos;t have to earn our way to Heaven through our own good deeds for that is impossible.</p>
           <br></br>
           <h2>Jesus came to die for our sins so that we can spend eternity with Him instead of burning in Hell with satan.</h2>
-          <p>Jesus Christ came in the form of man while being God and perfect at the same time to die on the cross for our sins so that we don't have to go to Hell.  That's how much He loves us as it says in <span className={styles.holy}>John 3:16-17</span> below.</p>
+          <p>Jesus Christ came in the form of man while being God and perfect at the same time to die on the cross for our sins so that we don&apos;t have to go to Hell.  That&apos;s how much He loves us as it says in <span className={styles.holy}>John 3:16-17</span> below.</p>
           <p className={styles.holy}>For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.  For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. -John 3:16-17 ESV</p>
-          <p>'Son' in the verse refers to Jesus Chris. He died on the cross, resurrected after three days and is alive today and will return again someday.  As long as we are still breathing, we can choose to believe in Jesus.</p>
+          <p>&apos;Son&apos; in the verse refers to Jesus Chris. He died on the cross, resurrected after three days and is alive today and will return again someday.  As long as we are still breathing, we can choose to believe in Jesus.</p>
           <br></br>
           <h2>Suffering in this temporary life is not an excuse to not believe in Jesus.</h2>
           <p>Jesus Christ Himself suffered on the cross, was naked, beaten and crucified.  Any suffering we endure pales in comparison and we deserve nothing but death as it says in <span className={styles.holy}>Romans 6:23</span>.</p>
           <p className={styles.holy}>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord. -Romans 6:23 ESV</p>
           <br></br>
           <h2>We live by faith, not by sight.</h2>
-          <p>I get it.  We doubt what we can't access via our 5 senses.  However, we are told in <span className={styles.holy}>Romans 1:20-21</span> that there is no excuse for we can sense that this world was not created randomly.</p>
+          <p>I get it.  We doubt what we can&apos;t access via our 5 senses.  However, we are told in <span className={styles.holy}>Romans 1:20-21</span> that there is no excuse for we can sense that this world was not created randomly.</p>
           <p className={styles.holy}>For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.  So they are without excuse.  For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. -Romans 1:20-21 ESV</p>
-          <p>'They' refers to mankind, and we are told that we are deceiving ourselves when we say that Jesus is not God and that we can live however we want without any consequences after we take out last breath.</p>
+          <p>&apos;They&apos; refers to mankind, and we are told that we are deceiving ourselves when we say that Jesus is not God and that we can live however we want without any consequences after we take out last breath.</p>
           <p>As a reaffirmation, we turn to <span className={styles.holy}>2 Corinthians 6-7</span>.</p>
           <p className={styles.holy}>Therefore we are always confident and know that as long as we are at home in the body we are away from the Lord.  For we live by faith, not by sight. -2 Corinthians 6-7 ESV</p>
           <p>That is, while we are in our earthly bodies, we will not be able to feel God all the time, but we have hope that upon believing in Jesus and our physical deaths, it will all be worth it.</p>
           <br></br>
           <h2>Prayer</h2>
-          <p>If you've read this far, thank you.  God loves you so much, wants to be with You for eternity and He doesn't want you to go to Hell.  He is there for you via the Holy Spirit so we should pray at all times.  Start with this or something along the lines of it to confess that Jesus is your Lord and Savior.  When it comes to praying, you just talk to Jesus in your thoughts or out loud as you repent of your sins as we will fall short sometimes and won't be perfect in this world.</p>
-          <p className={styles.pray}>God, I realize that I am nothing without you.  I am a sinner and deserving of death.  But I trust that you are my Lord and Savior, and know the price you paid on the cross so that I can be born again and obey you till my very last breath.  Thank you for dying on the cross and cleansing me of my sins.  In Jesus's name, I pray, Amen.</p>
+          <p>If you&apos;ve read this far, thank you.  God loves you so much, wants to be with You for eternity and He doesn&apos;t want you to go to Hell.  He is there for you via the Holy Spirit so we should pray at all times.  Start with this or something along the lines of it to confess that Jesus is your Lord and Savior.  When it comes to praying, you just talk to Jesus in your thoughts or out loud as you repent of your sins as we will fall short sometimes and won&apos;t be perfect in this world.</p>
+          <p className={styles.pray}>God, I realize that I am nothing without you.  I am a sinner and deserving of death.  But I trust that you are my Lord and Savior, and know the price you paid on the cross so that I can be born again and obey you till my very last breath.  Thank you for dying on the cross and cleansing me of my sins.  In Jesus&apos;s name, I pray, Amen.</p>
           <div className={styles.more}>
             <h1>More Topics</h1>
             <br></br>
