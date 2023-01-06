@@ -50,7 +50,7 @@ export default function Home() {
           <h2>We live by faith, not by sight.</h2>
           <p>I get it.  We doubt what we can&apos;t access via our 5 senses.  However, we are told in <span className={styles.holy}>Romans 1:20-21</span> that there is no excuse for we can sense that this world was not created randomly.</p>
           <p className={styles.holy}>For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.  So they are without excuse.  For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. -Romans 1:20-21 ESV</p>
-          <p>&apos;They&apos; refers to mankind, and we are told that we are deceiving ourselves when we say that Jesus is not God and that we can live however we want without any consequences after we take out last breath.</p>
+          <p>&apos;They&apos; refers to mankind, and we are told that we are deceiving ourselves when we say that Jesus is not God and that we can live however we want without any consequences after we take our last breath.</p>
           <p>As a reaffirmation, we turn to <span className={styles.holy}>2 Corinthians 6-7</span>.</p>
           <p className={styles.holy}>Therefore we are always confident and know that as long as we are at home in the body we are away from the Lord.  For we live by faith, not by sight. -2 Corinthians 6-7 ESV</p>
           <p>That is, while we are in our earthly bodies, we will not be able to feel God all the time, but we have hope that upon believing in Jesus and our physical deaths, it will all be worth it.</p>
