@@ -29,7 +29,7 @@ export default function Home() {
         <section>
           <h2>You are not a good person.</h2>
           <p>We often think that we are good people if we help others and don&apos;t commit crimes and hurt people.  That is not enough when we die.  It might sound crazy
-          but when we hate someone, it&apos;s just as bad as killing that person.  Today&apos;s society normalizes sexual content and premarital sex, but looking at someone with lustful thoughts outside of marriage is just as bad as committing adultery with that person.  Look no further than <span className={styles.verse}>Romans 3:23</span>.</p>
+          but when we hate someone, it&apos;s just as bad as killing that person.  Today&apos;s society normalizes sexual content and premarital sex, but looking at someone other than your spouse with lustful thoughts is just as bad as committing adultery with that person.  God cares about your sex life as he made your body to be holy; He wants you to become one flesh not with anybody.  Look no further than <span className={styles.holy}>Romans 3:23</span> to see that we are all evil.</p>
           <p className={styles.holy}>for all have sinned and fall short of the glory of God, -Romans 3:23 ESV</p>
           <br></br>
           <h2>Hell is real.</h2>
