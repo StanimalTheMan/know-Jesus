@@ -18,7 +18,7 @@ export default function Sex() {
             <br></br>
             <h2 className={styles.holy}>He answered, “Have you not read that he who created them from the beginning made them male and female, and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? So they are no longer two but one flesh. What therefore God has joined together, let not man separate.” -Matthew 19:4-6 ESV</h2>
             <br></br>
-            <h2 className={styles.holy}>Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body. Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body. -1 Corinthians 6:18-20</h2>
+            <h2 className={styles.holy}>Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body. Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body. -1 Corinthians 6:18-20 ESV</h2>
         </>
     )
 }
