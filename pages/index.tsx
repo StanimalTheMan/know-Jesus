@@ -58,7 +58,7 @@ export default function Home() {
           <h2>Prayer</h2>
           <p>If you&apos;ve read this far, thank you.  God loves you so much, wants to be with You for eternity and He doesn&apos;t want you to go to Hell.  He is there for you via the Holy Spirit so we should pray at all times.  When it comes to praying, you just talk to Jesus in your thoughts or out loud as you repent of your sins as we will fall short sometimes and won&apos;t be perfect in this world.  Start with this or something along the lines of it to confess that Jesus is your Lord and Savior.</p>
           <br></br>
-          <em>Father, I pray for your hand to be upon me today and to grant me understanding of the issues, that I would see my sin and its true light.  I call upon you today so that I can be born again.  I pray to be given a new heart with new desires so that I can love righteousness and not evil.  Please raise me up as a burning and shining light in this dark and sinful generation.  In Jesus&apos;s name, I pray, Amen.</em>
+          <em>Father, I pray for your hand to be upon me today and to grant me understanding of the issues, that I would see my sin and its true light.  I call upon you today so that I can be born again.  I pray to be given a new heart with new desires so that I can love righteousness and not evil.  Please raise me up as a burning and shining light in this dark and sinful generation.  Help me to love and to forgive others the way you loved and forgave me in spite of my sins and shortcomings. In Jesus&apos;s name, I pray, Amen.</em>
           <div className={styles.more}>
             <h1>More Topics</h1>
             <br></br>
